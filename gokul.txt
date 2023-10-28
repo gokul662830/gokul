@@ -1,0 +1,148 @@
+ <!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>MY BIKE</title>
+
+</head>
+
+<link rel="stylesheet" href="styles.css">
+
+<body>
+
+<header>
+
+<nav>
+
+<div class="container">
+
+<h1><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAACHCBY5F8
+
+<ul>
+
+<li><a href="features">Model</a></li>
+
+<li><a href="#pricing">Pricing</a></li>
+
+<<H><a href="#contact">Contact</a></li>
+
+</div>
+
+</nav>
+
+</header>
+
+<section id="hero">
+
+<div class="container">
+
+<h2>Welcome to MyBike Page</h2>
+
+<p>OFFICIAL WEBSITE OF MYBIKE PVT.LTD</p>
+
+<a href="#contact" class="cta-button">Get Started</a>
+
+</div>
+
+</section>
+
+<section id="Models">
+
+<div class="container">
+
+<h2>Models</h2>
+
+<div class="feature">
+
+<h3>Model1</h3>
+
+<p>KTM AG is an Austrian motorcycle, bicycle and sports car manufacturer owned
+
+</div>
+
+<div class="Models">
+
+<h3>Model2</h3>
+
+<p>The Yamaha YZF-R25 is a motorcycle manufactured by Yamaha since 2014. It is
+
+</div>
+
+<div class="Models">
+
+<h3>Model3</h3>
+
+</div>
+
+</section>
+
+<p>The Yamaha YZF-RIS is a single-cylinder sport bike made by Yamaha Motor Comp
+
+</div>
+
+<section id="pricing">
+
+<div class="container">
+[2:00 am, 28/10/2023] ? GEETHA ?: <h2>Pricing</h2>
+
+<div class="pricing-option">
+
+<h3>Basic Plan</h3>
+
+<p>Starting at 488e/month(EMI for 14 months)</p>
+
+<a href="#contact" class="cta-button">Sign Up</a>
+
+<div class="pricing-option">
+
+<h3>Premium Plan</h3>
+
+<p>Starting at 6258/month(EMI for 10 months)</p> <a href="#contact" class="cta-button">Sign Up</a>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<div class="container">
+
+<h2>Contact Us</h2>
+
+<p>Feel free to ask any queries about bike or EMI plans.</p>
+
+<form>
+
+<input type="text" placeholder="Your Name">
+
+<input type="email" placeholder="Your Email">
+
+<textarea placeholder="Your Query"></textarea>
+
+<button type="submit" class="cta-button">Submit</button>
+
+</form>
+
+</div>
+
+</section>
+
+<footer>
+
+<div class="container">
+
+<p>&copy; MyBike.PVT.LTD</p>
+
+</div>
+
+</footer>
+
+</body>
+
+</html>
